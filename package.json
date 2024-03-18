@@ -44,7 +44,7 @@
 	],
 	"license": "MIT",
 	"devDependencies": {
-		"browser-sync": "^2.24.7",
+		"browser-sync": "^2.29.3",
 		"onchange": "^4.1.0"
 	},
 	"dependencies": {
